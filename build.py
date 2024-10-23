@@ -21,6 +21,7 @@ def getVersion() -> str:
         version: str = subprocess.check_output(["git", "for-each-ref", "--sort=-creatordate", "--format", "%(refname:short)", "refs/tags"], cwd=VERSION_DIR, shell=True)
         version = version.decode("utf-8")
         version = version[:version.find('\n')]
+        version = "1.0.0" if version == '' else version
         print(f"Current extension version is: {version}")
 
         return version
