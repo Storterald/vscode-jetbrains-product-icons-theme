@@ -1,0 +1,37 @@
+{
+  "name": "jetbrains-product-icons",
+  "displayName": "Jetbrains Product Icons",
+  "description": "Jetbrains product icons",
+  "version": "--version",
+  "publisher": "Storterald",
+  "engines": {
+    "vscode": "*"
+  },
+  "main": "./build/extension.js",
+  "scripts": {
+    "vscode:prepublish": "node ./src/createFontFiles.js"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "productIconThemes": [
+      {
+        "id": "jetbrains-new-ui-product-icons",
+        "label": "Jetbrains New UI Product Icons",
+        "path": "./icons/product-icon-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "@types/vscode": "^1.70.0",
+    "esbuild": "^0.19.11",
+    "typescript": "^5.6.3",
+    "webfont": "^11.2.26",
+    "glob": "^11.0.0"
+  },
+  "repository": {
+    "url": "https://github.com/Storterald/Jetbrains-Product-Icons"
+  }
+}
