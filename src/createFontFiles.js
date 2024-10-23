@@ -24,7 +24,7 @@ const jsonContent = {
 
 async function generateFont(color) {
         try {
-                const svgsPath = path.join(__dirname, "..", "resources", "product", "*.svg").replace(/\\/g, '/');
+                const svgsPath = path.join(__dirname, "..", "resources", "*.svg").replace(/\\/g, '/');
                 const svgs = glob.sync(svgsPath).reverse();
                 
                 let unicodeValue = startUnicode;

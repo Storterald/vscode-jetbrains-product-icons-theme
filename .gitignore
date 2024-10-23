@@ -10,7 +10,3 @@ node_modules/
 
 # Build Files
 .version-getter/
-build/
-
-# Other
-.tests/

@@ -62,4 +62,4 @@ if __name__ == "__main__":
         for flag in sys.argv[1:]:
                 match flag:     
                         case "--install-vscode":
-                                subprocess.run(["code", "--install-extension", f"jetbrains-themes-{VERSION}.vsix"], shell=True)
+                                subprocess.run(["code", "--install-extension", f"jetbrains-product-icons-{VERSION}.vsix"], shell=True)

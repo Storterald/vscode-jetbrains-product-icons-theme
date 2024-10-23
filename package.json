@@ -7,7 +7,6 @@
   "engines": {
     "vscode": "*"
   },
-  "main": "./build/extension.js",
   "scripts": {
     "vscode:prepublish": "node ./src/createFontFiles.js"
   },
