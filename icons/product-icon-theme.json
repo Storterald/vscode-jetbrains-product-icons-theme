@@ -196,32 +196,77 @@
     "split-vertical": {
       "fontCharacter": "\\E03C"
     },
-    "tools": {
+    "symbol-class": {
       "fontCharacter": "\\E03D"
     },
-    "trash": {
+    "symbol-constant": {
       "fontCharacter": "\\E03E"
     },
-    "trashcan": {
+    "symbol-constructor": {
       "fontCharacter": "\\E03F"
     },
-    "type-hierarchy-sub": {
+    "symbol-enum": {
       "fontCharacter": "\\E040"
     },
-    "type-hierarchy-super": {
+    "symbol-field": {
       "fontCharacter": "\\E041"
     },
-    "type-hierarchy": {
+    "symbol-function": {
       "fontCharacter": "\\E042"
     },
-    "unlock": {
+    "symbol-interface": {
       "fontCharacter": "\\E043"
     },
-    "warning": {
+    "symbol-method": {
       "fontCharacter": "\\E044"
     },
-    "whole-word": {
+    "symbol-module": {
       "fontCharacter": "\\E045"
+    },
+    "symbol-namespace": {
+      "fontCharacter": "\\E046"
+    },
+    "symbol-operator": {
+      "fontCharacter": "\\E047"
+    },
+    "symbol-property": {
+      "fontCharacter": "\\E048"
+    },
+    "symbol-struct": {
+      "fontCharacter": "\\E049"
+    },
+    "symbol-value": {
+      "fontCharacter": "\\E04A"
+    },
+    "symbol-variable": {
+      "fontCharacter": "\\E04B"
+    },
+    "tools": {
+      "fontCharacter": "\\E04C"
+    },
+    "trash": {
+      "fontCharacter": "\\E04D"
+    },
+    "trashcan": {
+      "fontCharacter": "\\E04E"
+    },
+    "type-hierarchy-sub": {
+      "fontCharacter": "\\E04F"
+    },
+    "type-hierarchy-super": {
+      "fontCharacter": "\\E050"
+    },
+    "type-hierarchy": {
+      "fontCharacter": "\\E051"
+    },
+    "unlock": {
+      "fontCharacter": "\\E052"
+    },
+    "warning": {
+      "fontCharacter": "\\E053"
+    },
+    "whole-word": {
+      "fontCharacter": "\\E054"
     }
   }
 }
