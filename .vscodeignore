@@ -14,6 +14,8 @@ src/**
 # Build Files
 .version-getter/**
 build.py
+infos.py
+__pycache__
 
 # Product icons
 resources/**

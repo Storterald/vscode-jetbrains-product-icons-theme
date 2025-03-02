@@ -205,68 +205,80 @@
     "symbol-constructor": {
       "fontCharacter": "\\E03F"
     },
-    "symbol-enum": {
+    "symbol-enum-member": {
       "fontCharacter": "\\E040"
     },
-    "symbol-field": {
+    "symbol-enum": {
       "fontCharacter": "\\E041"
     },
-    "symbol-function": {
+    "symbol-field": {
       "fontCharacter": "\\E042"
     },
-    "symbol-interface": {
+    "symbol-function": {
       "fontCharacter": "\\E043"
     },
-    "symbol-method": {
+    "symbol-interface": {
       "fontCharacter": "\\E044"
     },
-    "symbol-module": {
+    "symbol-method": {
       "fontCharacter": "\\E045"
     },
-    "symbol-namespace": {
+    "symbol-module": {
       "fontCharacter": "\\E046"
     },
-    "symbol-operator": {
+    "symbol-namespace": {
       "fontCharacter": "\\E047"
     },
-    "symbol-property": {
+    "symbol-operator": {
       "fontCharacter": "\\E048"
     },
-    "symbol-struct": {
+    "symbol-parameter": {
       "fontCharacter": "\\E049"
     },
-    "symbol-value": {
+    "symbol-property": {
       "fontCharacter": "\\E04A"
     },
-    "symbol-variable": {
+    "symbol-struct": {
       "fontCharacter": "\\E04B"
     },
-    "tools": {
+    "symbol-structure": {
       "fontCharacter": "\\E04C"
     },
-    "trash": {
+    "symbol-type-parameter": {
       "fontCharacter": "\\E04D"
     },
-    "trashcan": {
+    "symbol-value": {
       "fontCharacter": "\\E04E"
     },
-    "type-hierarchy-sub": {
+    "symbol-variable": {
       "fontCharacter": "\\E04F"
     },
-    "type-hierarchy-super": {
+    "tools": {
       "fontCharacter": "\\E050"
     },
-    "type-hierarchy": {
+    "trash": {
       "fontCharacter": "\\E051"
     },
-    "unlock": {
+    "trashcan": {
       "fontCharacter": "\\E052"
     },
-    "warning": {
+    "type-hierarchy-sub": {
       "fontCharacter": "\\E053"
     },
-    "whole-word": {
+    "type-hierarchy-super": {
       "fontCharacter": "\\E054"
+    },
+    "type-hierarchy": {
+      "fontCharacter": "\\E055"
+    },
+    "unlock": {
+      "fontCharacter": "\\E056"
+    },
+    "warning": {
+      "fontCharacter": "\\E057"
+    },
+    "whole-word": {
+      "fontCharacter": "\\E058"
     }
   }
 }
