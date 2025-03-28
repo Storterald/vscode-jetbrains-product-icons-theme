@@ -1,8 +1,8 @@
 {
-  "name": "jetbrains-product-icons",
-  "displayName": "Jetbrains Product Icons",
+  "name": "vscode-jetbrains-product-icons-theme",
+  "displayName": "Jetbrains Product Icons Theme",
   "icon": "logo.png",
-  "description": "Jetbrains product icons",
+  "description": "Jetbrains product icons theme for VS Code",
   "version": "--version",
   "publisher": "Storterald",
   "engines": {
@@ -32,6 +32,6 @@
     "glob": "^11.0.0"
   },
   "repository": {
-    "url": "https://github.com/Storterald/Jetbrains-Product-Icons"
+    "url": "https://github.com/Storterald/vscode-jetbrains-product-icons-theme"
   }
 }

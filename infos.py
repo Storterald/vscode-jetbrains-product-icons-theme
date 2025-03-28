@@ -1,3 +1,3 @@
 VERSION_DIR: str = "./.version-getter/"
-GITHUB_REPO: str = "https://github.com/Storterald/VSCode-Profiler-Integration"
-NAME: str = "jetbrains-product-icons"
+GITHUB_REPO: str = "https://github.com/Storterald/vscode-jetbrains-product-icons-theme"
+NAME: str = "vscode-jetbrains-product-icons-theme"
