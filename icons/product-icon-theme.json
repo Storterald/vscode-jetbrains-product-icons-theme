@@ -235,89 +235,98 @@
     "split-vertical": {
       "fontCharacter": "\\E049"
     },
-    "symbol-class": {
+    "symbol-boolean": {
       "fontCharacter": "\\E04A"
     },
-    "symbol-constant": {
+    "symbol-class": {
       "fontCharacter": "\\E04B"
     },
-    "symbol-constructor": {
+    "symbol-constant": {
       "fontCharacter": "\\E04C"
     },
-    "symbol-enum-member": {
+    "symbol-constructor": {
       "fontCharacter": "\\E04D"
     },
-    "symbol-enum": {
+    "symbol-enum-member": {
       "fontCharacter": "\\E04E"
     },
-    "symbol-field": {
+    "symbol-enum": {
       "fontCharacter": "\\E04F"
     },
-    "symbol-function": {
+    "symbol-field": {
       "fontCharacter": "\\E050"
     },
-    "symbol-interface": {
+    "symbol-function": {
       "fontCharacter": "\\E051"
     },
-    "symbol-method": {
+    "symbol-interface": {
       "fontCharacter": "\\E052"
     },
-    "symbol-module": {
+    "symbol-method": {
       "fontCharacter": "\\E053"
     },
-    "symbol-namespace": {
+    "symbol-module": {
       "fontCharacter": "\\E054"
     },
-    "symbol-operator": {
+    "symbol-namespace": {
       "fontCharacter": "\\E055"
     },
-    "symbol-parameter": {
+    "symbol-number": {
       "fontCharacter": "\\E056"
     },
-    "symbol-property": {
+    "symbol-operator": {
       "fontCharacter": "\\E057"
     },
-    "symbol-struct": {
+    "symbol-parameter": {
       "fontCharacter": "\\E058"
     },
-    "symbol-structure": {
+    "symbol-property": {
       "fontCharacter": "\\E059"
     },
-    "symbol-type-parameter": {
+    "symbol-string": {
       "fontCharacter": "\\E05A"
     },
-    "symbol-value": {
+    "symbol-struct": {
       "fontCharacter": "\\E05B"
     },
-    "symbol-variable": {
+    "symbol-structure": {
       "fontCharacter": "\\E05C"
     },
-    "tools": {
+    "symbol-type-parameter": {
       "fontCharacter": "\\E05D"
     },
-    "trash": {
+    "symbol-value": {
       "fontCharacter": "\\E05E"
     },
-    "trashcan": {
+    "symbol-variable": {
       "fontCharacter": "\\E05F"
     },
-    "type-hierarchy-sub": {
+    "tools": {
       "fontCharacter": "\\E060"
     },
-    "type-hierarchy-super": {
+    "trash": {
       "fontCharacter": "\\E061"
     },
-    "type-hierarchy": {
+    "trashcan": {
       "fontCharacter": "\\E062"
     },
-    "unlock": {
+    "type-hierarchy-sub": {
       "fontCharacter": "\\E063"
     },
-    "warning": {
+    "type-hierarchy-super": {
       "fontCharacter": "\\E064"
     },
-    "whole-word": {
+    "type-hierarchy": {
       "fontCharacter": "\\E065"
+    },
+    "unlock": {
+      "fontCharacter": "\\E066"
+    },
+    "warning": {
+      "fontCharacter": "\\E067"
+    },
+    "whole-word": {
+      "fontCharacter": "\\E068"
     }
   }
 }
